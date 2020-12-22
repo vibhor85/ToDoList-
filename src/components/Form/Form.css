@@ -1,0 +1,13 @@
+.Form{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Form input{
+    width:50%;
+    height:40px;
+}
+.Form button{
+    height: 40px;
+}
